@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Admin">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="16dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="12dp"
+        android:text="RIVER LEVELS" />
+
+    <EditText
+        android:id="@+id/editRiverN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="River Name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editStationN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Station"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editMaxL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Maximum Level"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editCurrL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Current RIver Level"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonRiver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save" />
+
+</LinearLayout>

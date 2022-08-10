@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57437112877",
+    "project_id": "kafews-bfe17",
+    "storage_bucket": "kafews-bfe17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57437112877:android:b499ba3444656de03406a4",
+        "android_client_info": {
+          "package_name": "com.example.kafews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57437112877-u0h8tnp0qfs0rv670p5kd2dosdun6or1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VnC4FrVqO7ED-iiRvUSd3eAs6CJMh5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57437112877-u0h8tnp0qfs0rv670p5kd2dosdun6or1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
