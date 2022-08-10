@@ -5,13 +5,16 @@
       <map>
         <entry key="app/src/main/res/drawable/background_splashscreen.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/cut_card_background.xml" value="0.2015" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_admin.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_forum.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/activity_information.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_message_login.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_retrieve.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_safe_havens.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/message_design.xml" value="0.1" />
         <entry key="app/src/main/res/layout/row_contact.xml" value="0.22" />
         <entry key="app/src/main/res/menu/menu_item.xml" value="0.19375" />
         <entry key="app/src/main/res/menu/menuadmin.xml" value="0.19270833333333334" />

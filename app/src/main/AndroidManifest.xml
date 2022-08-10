@@ -16,6 +16,9 @@
         android:theme="@style/Theme.KAFEWS"
         tools:targetApi="31">
         <activity
+            android:name=".MessageLogin"
+            android:exported="false" />
+        <activity
             android:name=".Retrieve"
             android:exported="false" />
         <activity
