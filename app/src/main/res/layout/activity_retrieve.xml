@@ -25,6 +25,7 @@
         android:layout_width="237dp"
         android:layout_height="41dp"
         android:gravity="center"
+        android:textStyle="bold"
         android:text="WATER LEVEL INFORMATION"
         android:textColor="#000000"
         android:textSize="15dp"
